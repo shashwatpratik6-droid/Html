@@ -1,0 +1,22 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+#div{
+    display:flex;
+    justify-content:space-between;
+    background-color:black;
+}
+#button{
+    color:rgba(252, 250, 248, 0.932);
+    background-color:orange;
+}
+.label{
+    color:white;
+    text-decoration:none;
+}
+#amazon{
+    color:orange;
+    font-size:25px;
+}
